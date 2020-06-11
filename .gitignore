@@ -13,6 +13,8 @@ y.tab.h
 # 3d files
 *.obj
 
+# executable
+mdl
 
 # Created by https://www.toptal.com/developers/gitignore/api/emacs,c
 # Edit at https://www.toptal.com/developers/gitignore?templates=emacs,c
