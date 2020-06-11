@@ -1,4 +1,9 @@
 
+# flex/bison
+lex.yy.c
+y.tab.c
+y.tab.h
+
 # image files
 *.png
 *.gif
